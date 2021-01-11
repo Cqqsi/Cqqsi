@@ -1,4 +1,6 @@
-https://tenor.com/view/joke-jk-penguin-laugh-its-was-ajoke-gif-14574338
+![joke]
+
+[joke]: https://tenor.com/view/joke-jk-penguin-laugh-its-was-ajoke-gif-14574338
 
 <!--
 **Cqqsi/Cqqsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

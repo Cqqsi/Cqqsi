@@ -1,18 +1,15 @@
-![joke]
+![a][cat]![a][cat]![a][cat]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][cat]![a][cat]![a][cat]![a][cat]![a][space]  
+![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]  
+![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][cat]![a][cat]![a][cat]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]  
+![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]  
+![a][cat]![a][cat]![a][cat]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]  
+![a][space]  
+![a][space]  
+![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]  
+![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][space]![a][cat]![a][cat]![a][space]![a][cat]![a][cat]  
+![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][cat]![a][cat]![a][cat]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][cat]![a][space]![a][cat]  
+![a][cat]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]  
+![a][cat]![a][cat]![a][cat]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]![a][space]![a][space]![a][space]![a][cat]  
 
-[joke]: https://tenor.com/view/joke-jk-penguin-laugh-its-was-ajoke-gif-14574338
-
-<!--
-**Cqqsi/Cqqsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cat]: https://cdn.discordapp.com/emojis/743579665435721768.gif
+[space]: https://nc.izu.re/s/ECHadFC5jt74JaQ/preview
